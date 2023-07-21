@@ -1,0 +1,50 @@
+9_SAS_On Cloud Models What is Private Cloud
+
+
+Q1
+What are private clouds?
+ANS
+CLOUDS THAT ARE OWNED OWNED AND OPERATED BY ORGANIZATIONS THAT USE THE RESOURCES FROM THE CLOUD PRIVATELY WITH THEIR OWN DATA CENTER.
+Q2
+The organizations or enterprises create their own cloud environment with private clouds? True/False.
+ANS
+TRUE
+Q3
+What are the other things organizations can have in their own cloud environment?
+ANS
+SERVERS, HARDWARE, STORAGE, SOFTWARE - ALL WITHIN THE DATA CENTER OF THE ENTERPRISE.
+Q4
+Private cloud in an organization means employees of the organization can use a self service provisioning portal to login to the private cloud and create computing resources? True/False.
+ANS
+TRUE
+Q5
+When it comes to the private cloud, who is responsible for operating and maintaining the private cloud?
+ANS
+THE ORGANIZATION
+Q6
+What is a good example of using a private cloud?
+ANS
+AN ORGANIZATION HAS DATA THAT THEY DON’T WANT TO PUT IN THE PUBLIC CLOUD (FOR EXAMPLE CERTAIN MEDICAL DATA).
+Q7
+What would be another reason an organization might not want to put some data into a public cloud?
+ANS
+LEGAL REASONS, SECURITY OR PRIVACY, LAW COMPLIANCE, SENSITIVE DATA, GOVERNMENT DATA.
+Q8
+What type of legal reason would an organization have to not put some data into a public cloud?
+ANS
+MEDICAL DATA THAT HAS TO BE COMPLIANT WITH LEGAL REASONS.
+Q9
+There is also some government data that a country might want to put safely within private data? True/False.
+ANS
+TRUE
+Q10
+What is the difference between public cloud and private cloud?
+ANS
+ACCESSIBILITY - PRIVATE FOR SINGLE ORG, PUBLIC FOR MULTIPLE USERS / ORGS.
+OWNERSHIP AND OPERATION - PUBLIC IS BY THIRD-PARTY GIANT, PRIVATE BY SINGLE ORG / ENTITY.
+HIGH CONTROL AND CUSTOMIZATION IN PRIVATE CLOUDS, MORE SECURITY AND ISOLATION.
+PRIVATE CLOUDS MAY BE HIGH CAPEX VS. THE OPEX OF PUBLIC CLOUDS.
+
+SINGLE TENANCY VS. MULTI TENANCY.
+
+
