@@ -1,0 +1,50 @@
+16_SAS_On What is PAAS.
+
+
+Q1
+What are developers responsible for?
+ANS
+BUILDING AND CREATING APPLICATIONS. THEY ARE SKILLED AT WRITING CODE AND MAKING SURE THE APPLICATION WORKS AND PERFORMS AT ITS BEST.
+Q2
+What is the major roadblock that developers have?
+ANS
+THEY DON’T HAVE AN UNDERSTANDING OF THE UNDERLYING INFRASTRUCTURE WHERE THE APPLICATION WILL BE HOSTED.
+Q3
+What is an example of a roadblock that developers face?
+ANS
+THE DEV MAY NOT KNOW WHAT ENCRYPTION IS OR WHAT BACKUPS ARE.
+Q4
+What is PAAS Platform as a service?
+ANS
+THE PAAS WILL PROVIDE AN ENVIRONMENT TO BUILD SUCH APPLICATIONS SO THE DEVELOPER DOES NOT HAVE TO WORRY ABOUT THOSE CONCEPTS, THEY JUST HAVE TO FOCUS ON WRITING THE BEST CODE.
+Q5
+Platform as a service provides an environment for building, testing, and deploying software applications? True/False.
+ANS
+TRUE
+Q6
+What is the goal of PAAS Platform as a service?
+ANS
+TO HELP CREATE AN APPLICATION AS QUICKLY AS POSSIBLE WITHOUT HAVING THE DEVELOPER WORRY ABOUT MANAGING THE UNDERLYING INFRASTRUCTURE
+Q7
+What is the benefit of using Platform as a service?
+ANS
+YOU DON’T HAVE TO INSTALL AN OS, OR TAKE CARE OF WINDOWS UPDATES, OR INSTALL ANTIVIRUSES.
+-RAPID APPLICATION DEVELOPMENT
+-EASY DEPLOYMENT AND MANAGEMENT
+-FOCUS ON APP LOGIC
+-BUILT-IN SERVICES AND INTEGRATION
+ETC.
+Q8
+PAAS platform as a service is a complete development and deployment environment in the cloud? True/False.
+ANS
+TRUE
+Q9
+Where are the resources purchased from with Platform as a service PAAS?
+ANS
+FROM THE CLOUD SERVICE PROVIDERS AS PAYG BASIS ACCESSED OVER A SECURE INTERNET CONNECTION. THERE ARE NO UP FRONT COSTS AND USERS PAY FOR ONLY WHAT THEY CONSUME.
+Q10
+With Platform as a service, users/developers are responsible for the development of their own applications however they are not responsible for managing the server or underlying infrastructure. This allows the user, developer to focus on building the application or the workloads they want to run. True/False
+ANS
+TRUE
+
+
