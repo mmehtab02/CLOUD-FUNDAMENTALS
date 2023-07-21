@@ -1,0 +1,47 @@
+14_SAS_On What is IAAS.
+
+
+Q1
+What does it take for an organization to build an Infrastructure?
+ANS
+UNDERLYING COMPONENTS OF ANY APPLICATION - SERVERS, HARDWARES, ROUTERS, SWITCHES, FIREWALLS, UNDERLYING CABLING, SECURITY, MONITORING, LONG ACCESS, LOAD BALANCER, BACKUPS, STORAGE RESILIENCE, CLUSTERING, ETC.
+
+THESE ARE SERVICES ANY APP WILL NEED TO FUNCTION PROPERLY.
+Q2
+What is infrastructure as a service provider?
+ANS
+IAAS PROVIDER WILL PROVIDE THIS RANGE OF SERVICES TO YOU AS A SERVICE - YOU DON’T NEED TO CREATE THIS INFRASTRUCTURE ON YOUR PREMISE.
+Q3
+Infrastructure as a service provider provides all the necessary infrastructure so users don’t have to build their own infrastructure? True/False.
+ANS
+TRUE
+Q4
+Where will all the infrastructure be and managed by?
+ANS
+THE CLOUD PROVIDER IN THEIR DATA CENTERS.
+Q5
+List the cloud service providers who will provide the infrastructure as a service?
+ANS
+MICROSOFT AZURE, AWS, IBM CLOUD, ETC.
+Q6
+As an infrastructure as a service customer all you have to do is have access to the internet and a subscription with cloud service provider? True/False.
+ANS
+TRUE
+Q7
+Why would a business choose infrastructure as a service?
+ANS
+IT IS EASY, FAST, COST EFFICIENT TO OPERATE A WORKLOAD WITHOUT HAVING TO BUY AND MANAGE THE UNDERLYING INFRASTRUCTURE.
+Q8
+Is IAAS effective for the workload that is temporary? True/False.
+ANS
+TRUE
+Q9
+What can a user rent from infrastructure as a service?
+ANS
+IT INFRA SERVERS, VMS, STORAGE, NETWORKS, OPERATING SYSTEMS ETC. ON A PAY AS YOU GO BASIS.
+Q10
+With infrastructure as a service there are no upfront costs? True/False.
+ANS
+TRUE
+
+
